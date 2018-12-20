@@ -1,3 +1,4 @@
+
 # Building a Tic-Tac-Toe application with React
 
 This is a tutorial for building a Tic-Tac-Toe game with [React](https://reactjs.org/), [Redux](https://redux.js.org/), [`redux-observable`](https://redux-observable.js.org/), [Rx.js](https://github.com/ReactiveX/rxjs), and more. We'll start simply, and continue building on the app, step by step, until we've created something quite powerful. Note: this is still a work in progress. [YMMV](https://en.wiktionary.org/wiki/your_mileage_may_vary#English).
@@ -175,3 +176,5 @@ So have fun! Go forth and learn.
 1. [Add state management](https://github.com/test-er-8-or/tic-tac-toe/tree/04-add-state-management)
 
 With more to come soon.
+
+
